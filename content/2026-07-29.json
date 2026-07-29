@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-07-29T12:29:20.596Z",
+  "built_at": "2026-07-29T14:25:29.489Z",
   "diet": {
     "date": "2026-07-29",
     "updated": "17:45",
@@ -137,6 +137,6 @@
   },
   "fin_acct": {
     "date": "2026-07-29",
-    "html": "<div class='meal'><div class='meal-h'>💰 账户台账说明</div><div class='meal-b'>在下方「记一笔」录入每日盈亏，系统自动累计并计算 <b>10 万年度目标</b> 完成进度。每晚 22:00 自动生成当日复盘台账存档。<br><span class='tip'>💡 交易复盘三问：为什么买？为什么卖？下次怎么改进？</span></div></div>"
+    "html": "<div class=\"meal\"><div class=\"meal-h\">💰 账户台账 · 睡前记账提醒</div><div class=\"meal-b\">请在下方「记一笔」录入今日盈亏金额与一句话复盘，系统自动累计收益并追踪目标进度。<br><span class=\"tip\">📌 复盘三问：为什么买？为什么卖？下次怎么改进？</span></div><div class=\"meal-h\" style=\"margin-top:10px\">🎯 年10万增收目标分解</div><div class=\"meal-b\" style=\"display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:12px\"><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📅 年度目标<br><b>¥100,000</b></div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">🗓️ 月均目标<br><b>≈ ¥8,333</b></div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📆 周均目标<br><b>≈ ¥1,923</b></div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📈 交易日日目标<br><b>≈ ¥385</b>（按2%收益率计）</div></div><div class=\"meal-h\" style=\"margin-top:10px\">⚠️ 今日交易纪律</div><div class=\"meal-b\" style=\"font-size:12px;color:#b45\"><b>仓位：</b>单票不超过总资金30%，忌满仓单吊；<br><b>止损：</b>-3%/-5%/-8% 三档严格止损，到点即走；<br><b>纪律：</b>不追高、不打板、不逆势补仓，次日了结。</div></div>"
   }
 }
