@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-08-03T07:40:23.544Z",
+  "built_at": "2026-08-04T01:33:01.477Z",
   "diet": {
     "date": "2026-08-03",
     "updated": "07:30",
@@ -107,12 +107,12 @@
     "html": "<div class=\"meal\"><div class=\"meal-h\">💰 账户台账 · 睡前记账提醒（7月收官）</div><div class=\"meal-b\">请在下方「记一笔」录入今日盈亏金额与<b>一句话复盘</b>，系统自动累计收益并追踪目标进度。<br><span class=\"tip\">📌 复盘三问：为什么买？为什么卖？下次怎么改进？</span><br><span class=\"tip\">📅 今日是7月最后一个交易日，建议对本月整体盈亏做一次小结。</span></div><div class=\"meal-h\" style=\"margin-top:10px\">🎯 年10万增收目标分解</div><div class=\"meal-b\" style=\"display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:12px\"><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📅 年度目标<br><b>¥100,000</b></div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">🗓️ 月均目标<br><b>≈ ¥8,333</b>（年÷12）</div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📆 周均目标<br><b>≈ ¥1,923</b>（年÷52）</div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📈 交易日日目标<br><b>≈ ¥385</b>（按2%收益率）</div></div><div class=\"meal-h\" style=\"margin-top:10px\">⚠️ 今日交易纪律</div><div class=\"meal-b\" style=\"font-size:12px;color:#b45\"><b>仓位：</b>单票不超过总资金30%，忌满仓单吊、忌杠杆；<br><b>止损：</b>-3%/-5%/-8% 三档铁律，到点走人不犹豫；<br><b>不追高：</b>不追涨停、不接飞刀、不逆势补仓，次日了结；<br><b>复盘：</b>无论盈亏都写一句话——赚钱的逻辑能不能复制，亏钱的坑下次怎么避开。</div></div>"
   },
   "foreign": {
-    "date": "2026-08-03",
-    "en": "Every choice carries an opportunity cost, and the most expensive decision is often the one never made. In a fast-moving world, leaders who act on incomplete information and then adapt outperform those who wait for a perfect clarity that rarely arrives.",
-    "zh": "每一个选择都伴随着机会成本，而最昂贵的决策往往是那个从未做出的决定。在瞬息万变的世界里，那些基于不完整信息果断行动、随后再调整的人，往往胜过一直等待那种几乎不会到来的“完美清晰”的人。",
-    "words": "opportunity cost n. 机会成本；incomplete adj. 不完整的，不完全的；outperform v. 表现优于，胜过；clarity n. 清晰，明确；adapt v. 适应，调整；rarely adv. 很少，难得",
-    "phrases": "opportunity cost 机会成本；carry a cost 付出代价，带有成本；act on 依据……行动；wait for clarity 等待清晰状态",
-    "patterns": "1) \"Every + n. + carries a + n., and the most + adj. + n. + is often the one + 过去分词\" → 模板：每一个……都带有……，而最……的……往往是那个被……的（用于强调隐性代价，适合论证“不作为”的代价）。2) \"Those who + 动词短语 + outperform those who + 动词短语\" → 模板：那些……的人胜过那些……的人（用于对比两种行为或策略的优劣，适合写作中做权衡与选择论证）。"
+    "date": "2026-08-04",
+    "en": "The best leaders are not those who have all the answers, but those who ask the most useful questions — because a well-framed problem is already half solved.",
+    "zh": "最优秀的领导者并非无所不知的人，而是能提出最有价值问题的人——因为当问题被精准框定时，它就已经解决了一半。",
+    "words": "frame v. 框定、构思（问题/情境）；well-framed adj. 被精准界定的；half-solved adj. 解决了一半的；useful adj. 有用的、有价值的；leader n. 领导者",
+    "phrases": "have all the answers 无所不知、掌握一切答案；ask useful questions 提出有价值的问题；be half solved 已完成一半",
+    "patterns": "强调句型 \"It is not A who..., but B who...\"：突出真正关键的主体并非 A 而是 B。可套用模板：It is not the person with the most information who succeeds, but the one who asks the sharpest questions.（成功的关键不是信息最多的人，而是提问最尖锐的人。）"
   },
   "study_tips": {
     "date": "2026-08-02",
