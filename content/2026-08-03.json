@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-08-05T01:29:40.552Z",
+  "built_at": "2026-08-05T01:38:41.935Z",
   "diet": {
     "date": "2026-08-03",
     "updated": "07:30",
@@ -107,12 +107,12 @@
     "html": "<div class=\"meal\"><div class=\"meal-h\">💰 账户台账 · 睡前记账提醒（8月5日 周三）</div><div class=\"meal-b\">请在下方「记一笔」录入今日盈亏金额与<b>一句话复盘</b>，系统自动累计收益并追踪目标进度。<br><span class=\"tip\">📌 复盘三问：为什么买？为什么卖？下次怎么改进？</span><br><span class=\"tip\">📅 周三了——本周已过半，看看离周目标 ¥1,923 还差多少，后半周策略要调整就趁早。</span></div><div class=\"meal-h\" style=\"margin-top:10px\">🎯 年10万增收目标 · 计划分解</div><div class=\"meal-b\" style=\"display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:12px\"><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📅 年度目标<br><b>¥100,000</b><br><span class=\"tip\">距年底约 98 个交易日</span></div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">🗓️ 月均目标<br><b>≈ ¥8,333</b>（年÷12）</div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📆 周均目标<br><b>≈ ¥1,923</b>（年÷52）</div><div style=\"background:rgba(0,0,0,.04);padding:6px;border-radius:6px\">📈 交易日日目标<br><b>≈ ¥385</b>（2%收益率）</div></div><div class=\"meal-h\" style=\"margin-top:10px\">⚠️ 今日交易纪律 · 仓位与节奏</div><div class=\"meal-b\" style=\"font-size:12px;color:#b45\"><b>三档止损，到点即走：</b><br>-3%（日内触及 → 无条件减半仓）；<br>-5%（尾盘仍触发 → 清仓，不赌次日反弹）；<br>-8%（硬止损，不考虑任何理由，不补仓、不幻想）。<br><br><b>今日核心提醒：</b>周三是一周的「分水岭」——前半周赚了别飘、亏了别急。仓位控制比选股更重要：单票不超过总仓位 40%，留够子弹应对后半周机会。<b>不追高、不打板、不情绪化加仓</b>，错过就错过，市场每天都有机会。</div></div>"
   },
   "foreign": {
-    "date": "2026-08-04",
-    "en": "The best leaders are not those who have all the answers, but those who ask the most useful questions — because a well-framed problem is already half solved.",
-    "zh": "最优秀的领导者并非无所不知的人，而是能提出最有价值问题的人——因为当问题被精准框定时，它就已经解决了一半。",
-    "words": "frame v. 框定、构思（问题/情境）；well-framed adj. 被精准界定的；half-solved adj. 解决了一半的；useful adj. 有用的、有价值的；leader n. 领导者",
-    "phrases": "have all the answers 无所不知、掌握一切答案；ask useful questions 提出有价值的问题；be half solved 已完成一半",
-    "patterns": "强调句型 \"It is not A who..., but B who...\"：突出真正关键的主体并非 A 而是 B。可套用模板：It is not the person with the most information who succeeds, but the one who asks the sharpest questions.（成功的关键不是信息最多的人，而是提问最尖锐的人。）"
+    "date": "2026-08-05",
+    "en": "First-principles thinking strips a problem down to its irreducible truths, then rebuilds from the ground up rather than reasoning by analogy. This discipline, though slower at first, is what separates genuine innovation from incremental imitation.",
+    "zh": "第一性原理思维将一个问题拆解到不可再分的基本事实，再自下而上地重新构建，而非依赖类比推理。这种自律虽然起步更慢，却正是真正创新与渐进式模仿之间的分野。",
+    "words": "irreducible adj. 不可还原的；不可再分的；discipline n. 自律；严谨的方法；analogy n. 类比；类推；incremental adj. 渐进的；逐步增加的；imitation n. 模仿；仿制品；genuine adj. 真正的；真实的",
+    "phrases": "strip down to 将……剥析到（基本层面）；reason by analogy 通过类比推理；from the ground up 从零开始；自下而上；separate A from B 将 A 与 B 区分开来",
+    "patterns": "句型1：X strips a problem down to its irreducible truths, then rebuilds from the ground up rather than doing Y. 可套用：This method strips a problem down to its core elements, then rebuilds from the ground up rather than relying on old habits. 句型2：This discipline, though slower at first, is what separates A from B. 可套用：This habit, though hard at first, is what separates top performers from the mediocre."
   },
   "study_tips": {
     "date": "2026-08-02",
